@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Oswald:wght@300;400;500&family=Readex+Pro:wght@500;700&family=Roboto+Slab:wght@300;700&display=swap');
+
+.logo {
+    font-family: 'Readex Pro', sans-serif;
+    font-size: 30px;
+}
+.menus {
+    font-family: 'Readex Pro', sans-serif;
+}
+#home {
+    background-image: url("https://files.passeidireto.com/d44c9464-c89d-4600-b8a6-5dd3dc6c9d1c/d44c9464-c89d-4600-b8a6-5dd3dc6c9d1c.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    margin-top: 80px;
+    height: 100%;
+    color: rgb(255, 255, 255);
+    font-family: 'Francois One', sans-serif;
+}
+.caixa {
+	padding: 30px 0;
+    margin: 4px;
+}
+.caixa img {
+    margin: 2px;
+
+}
+
+.animacao:hover {
+    width: 90px;
+  transition: all 1s;
+}
+
+.filme-text{
+    font-size: 20px;
+}
+.capa {
+    margin-top:100px;
+
+}
+#login {
+    margin: 100px ;
+    font-family: 'Readex Pro', sans-serif;
+
+}
+#entrar {
+    background-image: url("https://files.passeidireto.com/d44c9464-c89d-4600-b8a6-5dd3dc6c9d1c/d44c9464-c89d-4600-b8a6-5dd3dc6c9d1c.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+
+}
